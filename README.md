@@ -1,7 +1,7 @@
 # SNEAKERS SHOP
 
 ## Introducción del proyecto
-Voy a hacer una tienda en la que venda distintos tipos de zapatos, y accesorios para los mismos, plantillas, cordones, productos para su limpieza, calcetines, etc.
+Voy a hacer una tienda en la que se vendan distintos tipos de zapatos y accesorios para los mismos, como plantillas, cordones, productos para su limpieza, calcetines, etc.
 
 ## Finalidad
 La función de este proyecto es hacer una tienda totalmente funcional con envíos a todo el mundo y que pueda servir para cualquier tienda de zapatos.
